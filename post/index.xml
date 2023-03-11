@@ -6,7 +6,26 @@
         <description>Recent content in Posts on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://shik1r.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 11 Mar 2023 02:48:38 +0000</lastBuildDate><atom:link href="https://shik1r.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>hugo涉及</title>
+        <link>https://shik1r.github.io/p/hugo%E6%B6%89%E5%8F%8A/</link>
+        <pubDate>Sat, 11 Mar 2023 02:48:38 +0000</pubDate>
+        
+        <guid>https://shik1r.github.io/p/hugo%E6%B6%89%E5%8F%8A/</guid>
+        <description>&lt;p&gt;asdasdasd&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hugo 搭建记录</title>
+        <link>https://shik1r.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Sat, 11 Mar 2023 02:40:58 +0000</pubDate>
+        
+        <guid>https://shik1r.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;h2 id=&#34;sadasd&#34;&gt;sadasd&lt;/h2&gt;
+&lt;p&gt;adasd&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://shik1r.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
