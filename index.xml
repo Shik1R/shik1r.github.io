@@ -6,7 +6,19 @@
         <description>Recent content on Shik1Rの博客小屋</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 25 Dec 2022 23:39:00 +0000</lastBuildDate><atom:link href="https://shik1r.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 24 Mar 2023 16:51:18 +0000</lastBuildDate><atom:link href="https://shik1r.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我</title>
+        <link>https://shik1r.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <pubDate>Fri, 24 Mar 2023 16:51:18 +0000</pubDate>
+        
+        <guid>https://shik1r.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+        <description>&lt;p&gt;这个Blog从3月初开始搭建，今年会逐步的完善起来，目前还有很多地方待修缮。&lt;/p&gt;
+&lt;p&gt;这里会记录一些我捣鼓过程中的想法、记录以及ACG相关的文章，由于现在也并不从事技术工作，所以并不局限于技术，会多一些思考与想法，如有幸看到一些文章而获得灵感，那可能就真的很好了。&lt;/p&gt;
+&lt;p&gt;希望不会用太多的时间去完善这里，让时间见证一切&lt;/p&gt;
+&lt;p&gt;2023.03.26 00:54&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>BGM 2022年杂记</title>
         <link>https://shik1r.github.io/p/bgm-2022%E5%B9%B4%E6%9D%82%E8%AE%B0/</link>
         <pubDate>Sun, 25 Dec 2022 23:39:00 +0000</pubDate>
@@ -516,34 +528,6 @@ Part2. 2021/12/18 00:06&lt;/p&gt;
         
         <guid>https://shik1r.github.io/archives/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://shik1r.github.io/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://shik1r.github.io/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>BGM 2018年杂记</title>
