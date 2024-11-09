@@ -960,7 +960,8 @@ JIN-仁- 完結編&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;修改&lt;code&gt;httpd.conf&lt;/code&gt;和&lt;code&gt;httpd-vhosts.conf&lt;/code&gt;两个文件&lt;/li&gt;
+&lt;li&gt;修改&lt;code&gt;httpd.conf&lt;/code&gt;和&lt;code&gt;httpd-vhosts.conf&lt;/code&gt;两个文件
+1&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
