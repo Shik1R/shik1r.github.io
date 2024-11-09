@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Shik1Rの小屋</title>
-        <link>https://Shik1R.github.io/page/</link>
+        <link>https://shik1r.github.io/page/</link>
         <description>Recent content in Pages on Shik1Rの小屋</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 25 Mar 2023 16:51:11 +0000</lastBuildDate><atom:link href="https://Shik1R.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 25 Mar 2023 16:51:11 +0000</lastBuildDate><atom:link href="https://shik1r.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于我</title>
-        <link>https://Shik1R.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <link>https://shik1r.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
         <pubDate>Fri, 24 Mar 2023 16:51:18 +0000</pubDate>
         
-        <guid>https://Shik1R.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+        <guid>https://shik1r.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
         <description>&lt;p&gt;这个Blog从3月初开始搭建，今年会逐步的完善起来，目前还有很多地方待修缮。&lt;/p&gt;
 &lt;p&gt;这里会记录一些我捣鼓过程中的想法、记录以及ACG相关的文章，由于现在也并不从事技术工作，所以并不局限于技术，会多一些思考与想法，如有幸看到一些文章而获得灵感，那可能就真的很好了。&lt;/p&gt;
 &lt;p&gt;希望不会用太多的时间去完善这里，让时间见证一切&lt;/p&gt;
@@ -20,18 +20,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://Shik1R.github.io/archives/</link>
+        <link>https://shik1r.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://Shik1R.github.io/archives/</guid>
+        <guid>https://shik1r.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title></title>
-        <link>https://Shik1R.github.io/</link>
+        <link>https://shik1r.github.io/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Shik1R.github.io/</guid>
+        <guid>https://shik1r.github.io/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -63,10 +63,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://Shik1R.github.io/search/</link>
+        <link>https://shik1r.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://Shik1R.github.io/search/</guid>
+        <guid>https://shik1r.github.io/search/</guid>
         <description></description>
         </item>
         
